@@ -1,0 +1,32 @@
+Touch version 0.01
+==================
+
+INTRODUCTION
+
+This module allows users to "touch" files similar to the POSIX
+C<touch> command.  See the documentation within the module for
+details on the current functionality.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires no other modules and libraries, but it requires a
+C compiler.
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2006 by Steve Peters
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.8 or,
+at your option, any later version of Perl 5 you may have available.
+
+

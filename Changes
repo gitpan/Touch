@@ -1,0 +1,6 @@
+Revision history for Perl extension Touch.
+
+0.01  Wed Oct 11 08:57:45 2006
+	- original version; created by h2xs 1.23 with options
+		-n Touch
+
